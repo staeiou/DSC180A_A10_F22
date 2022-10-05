@@ -1,0 +1,208 @@
+query,group,subgroup
+1917,topsearch,media
+2020,topsearch,current_events
+Actors,topsearch,media
+Adele,topsearch,celebrity
+Among Us,topsearch,game
+Anderson Cooper baby,topsearch,celebrity
+Antebellum,topsearch,media
+Asymptomatic,topsearch,covid
+August Alsina,topsearch,celebrity
+Babies,topsearch,topic
+Baby Nut,topsearch,media
+Baby platypus,topsearch,media
+Beauty how to's,topsearch,personal
+Best stocks to buy during coronavirus,topsearch,money
+Black Panther,topsearch,media
+Boris Johnson,topsearch,celebrity
+Boston Celtics,topsearch,sports
+Break My Stride,topsearch,media
+Bubba Wallace,topsearch,celebrity
+Chadwick Boseman,topsearch,celebrity
+Chris D'Elia,topsearch,celebrity
+Cobra Kai,topsearch,media
+Coronavirus,topsearch,covid
+Coronavirus symptoms,topsearch,covid
+Coronavirus update,topsearch,covid
+Covid testing near me,topsearch,covid
+Dallas Stars,topsearch,sports
+Dating during coronavirus,topsearch,personal
+Dentist open during coronavirus,topsearch,services
+Disney churro,topsearch,products
+Doja Cat,topsearch,celebrity
+Dole Whip,topsearch,products
+DoubleTree cookie,topsearch,products
+Early voting near me,topsearch,current_events
+Election results,topsearch,current_events
+Elon Musk baby,topsearch,celebrity
+Entanglement,topsearch,media
+Fall Guys: Ultimate Knockout,topsearch,media
+Fires near me,topsearch,current_events
+Games,topsearch,media
+Genshin Impact,topsearch,media
+George Floyd,topsearch,current_events
+Ghost of Tsushima,topsearch,media
+Godzilla,topsearch,media
+GOOBA,topsearch,media
+Grimes,topsearch,celebrity
+Harley Quinn: Birds of Prey,topsearch,media
+How to color your hair at home,topsearch,personal
+How to cut men's hair at home,topsearch,personal
+How to donate blood,topsearch,personal
+How to donate to Australian bushfires,topsearch,current_events
+How to donate to Black Lives Matter,topsearch,current_events
+How to donate to Georgia Senate runoff,topsearch,current_events
+How to donate to Goodwill,topsearch,personal
+How to help acid reflux,topsearch,personal
+How to help Australia fires,topsearch,current_events
+How to help Black Lives Matter,topsearch,current_events
+How to help during coronavirus,topsearch,personal
+How to help Yemen,topsearch,current_events
+How to make a face mask with fabric,topsearch,covid
+How to make a mask with a bandana,topsearch,covid
+How to make a mask without sewing,topsearch,covid
+How to make hand sanitizer,topsearch,covid
+How to make whipped coffee,topsearch,products
+How to plop hair,topsearch,personal
+How to style biker shorts,topsearch,personal
+How to style box braids,topsearch,personal
+How to style curly hair,topsearch,personal
+How to style curtain bangs,topsearch,personal
+How to style long hair men,topsearch,personal
+How to wash your hands,topsearch,covid
+Ice Age baby,topsearch,media
+Iran,topsearch,current_events
+Jacob Blake,topsearch,celebrity
+Jada Pinkett Smith,topsearch,celebrity
+Jobs hiring during coronavirus,topsearch,personal
+Joe Biden,topsearch,celebrity
+Kamala Harris,topsearch,celebrity
+Kansas City Chiefs,topsearch,sports
+Kim Jong Un,topsearch,celebrity
+Kobe Bryant,topsearch,celebrity
+Little Women,topsearch,media
+Los Angeles Clippers,topsearch,sports
+Lyrics,topsearch,media
+Miami Heat,topsearch,sports
+Mike Bloomberg,topsearch,celebrity
+Mike Tyson,topsearch,celebrity
+Movies,topsearch,media
+Naya Rivera,topsearch,media
+Ozark,topsearch,media
+Pandemic,topsearch,covid
+Parasite,topsearch,media
+Pete Buttigieg,topsearch,celebrity
+Protests near me,topsearch,current_events
+Recipes,topsearch,personal
+Ricky Gervais,topsearch,celebrity
+Rudy Gobert,topsearch,celebrity
+Ruth Bader Ginsburg,topsearch,celebrity
+Ryan Newman,topsearch,celebrity
+See what was trending in 2020 -,topsearch,personal
+Shakira,topsearch,celebrity
+Sourdough bread,topsearch,personal
+Stimulus checks,topsearch,current_events
+The Box,topsearch,media
+The Queen's Gambit,topsearch,media
+The Umbrella Academy,topsearch,media
+Tiger King,topsearch,media
+Timothée Chalamet,topsearch,celebrity
+Tom Brady,topsearch,celebrity
+Tom Hanks,topsearch,celebrity
+TV Shows,topsearch,media
+Unemployment,topsearch,personal
+Unemployment during coronavirus,topsearch,personal
+Valorant,topsearch,media
+Virtual,topsearch,covid
+Virtual field trips,topsearch,personal
+Virtual Kentucky Derby,topsearch,media
+Virtual learning,topsearch,media
+Virtual museum tours,topsearch,media
+Virtual NBA fans,topsearch,sports
+Voting near me,topsearch,current_events
+WAP,topsearch,media
+Where is Beirut,topsearch,current_events
+Where is Kansas City,topsearch,current_events
+Where is my refunds,topsearch,personal
+Where is my stimulus money,topsearch,personal
+Where is Shakira from,topsearch,media
+Where to buy face masks,topsearch,covid
+Where to buy hand sanitizer,topsearch,covid
+Where to buy PS5,topsearch,products
+Where to buy toilet paper,topsearch,products
+Where to buy Xbox Series X,topsearch,products
+Whipped coffee,topsearch,products
+Why is Nevada taking so long,topsearch,current_events
+Why is there a coin shortage,topsearch,current_events
+Why is TikTok getting banned,topsearch,current_events
+Why was George Floyd arrested,topsearch,current_events
+Why were chainsaws invented,topsearch,products
+Year in Search 2020,topsearch,current_events
+best laptop,likelyads,products
+best smartphone,likelyads,products
+best face mask,likelyads,products
+best place to visit,likelyads,travel
+best airline,likelyads,travel
+best tropical island,likelyads,travel
+best family friendly vacation,likelyads,travel
+best theme park,likelyads,travel
+best air filter,likelyads,products
+best wifi router,likelyads,products
+best headphones,likelyads,products
+best webcam,likelyads,products
+coupons,likelyads,services
+grocery store,likelyads,services
+supermarket,likelyads,services
+italian restaurant,likelyads,services
+french restaurant,likelyads,services
+chinese restaurant,likelyads,services
+steakhouse,likelyads,services
+restaurant for big group,likelyads,services
+date night ideas,likelyads,personal
+barber,likelyads,services
+hair stylist,likelyads,services
+smartphone repair,likelyads,services
+fix a cracked iphone,likelyads,services
+hotels los angeles,likelyads,travel
+hotels nyc,likelyads,travel
+hotels honolulu,likelyads,travel
+restaurants honolulu,likelyads,travel
+best hawaiian island,likelyads,travel
+best greek island,likelyads,travel
+best country to visit in europe,likelyads,travel
+best beach in mexico,likelyads,services
+urgent care,likelyads,services
+go karts,likelyads,services
+museums,likelyads,services
+bars,likelyads,services
+bars open late,likelyads,services
+clubs,likelyads,services
+gambling,likelyads,money
+poker,likelyads,money
+online poker,likelyads,money
+online blackjack,likelyads,money
+online slots,likelyads,money
+sports betting,likelyads,money
+casino,likelyads,money
+buy bitcoin,likelyads,money
+buy cryptocurrency,likelyads,money
+buy ethereum,likelyads,money
+best cloud provider,likelyads,services
+best streaming service,likelyads,services
+bail bonds,likelyads,money
+lawyer,likelyads,services
+payday loan,likelyads,money
+fast loan,likelyads,money
+get money now,likelyads,money
+pay off credit card,likelyads,money
+check cashing,likelyads,money
+refinance mortgage,likelyads,money
+best credit card,likelyads,money
+rewards credit card,likelyads,money
+life insurance,likelyads,services
+car insurance,likelyads,services
+boat insurance,likelyads,services
+home insurance,likelyads,services
+motorcycle insurance,likelyads,services
+online degree,likelyads,services
+online masters,likelyads,services
